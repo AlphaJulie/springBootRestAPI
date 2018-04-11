@@ -3,8 +3,7 @@
 ## Overview
 
 The Issue tracker application is a simplified version of Atlassian Jira, or Trello board, which allows users to create
-and manage the progress of issues. In the exercise, you will be asked to implement a RESTful API which provides the
-required functionality.
+and manage the progress of issues. 
 
 RESTful API for the issue tracker system, which will provide CRUD functionality to API consumers.
 Consumers should be able to complete all of the following:
